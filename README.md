@@ -40,7 +40,7 @@ I changed the style of the site to mkae it more attractive.
 
 Added the storyline of the movie to the website.
 
-Changed the background and text colour to create a cleaner theme for the website.
+Changed the background and text color to create a cleaner theme for the website.
 
 
 
