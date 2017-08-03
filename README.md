@@ -9,7 +9,7 @@ A movie trailer website, part of the Udacity Full Stack Web Developer Nanodegree
 
 What it is and does
 
-A Python program takes input that produces HTML code for a movie website that displays  movies posters and trailers when cicked.
+A Python program takes input that produces HTML code for a movie website that displays movies posters and trailers when clicked.
 
 Required Libraries and Dependencies
 
